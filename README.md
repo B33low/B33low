@@ -1,6 +1,6 @@
 # 💫 About Me:
-- Data Engineering and DevOps Engineer.<br>
-- Open to collaborate on open-source project that value privacy.
+- IT Developper, AI enthusiast.<br>
+
 
 
 ## 🌐 Socials:
