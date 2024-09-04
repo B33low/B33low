@@ -1,5 +1,5 @@
 # 💫 About Me:
-- IT Developper, AI enthusiast.<br>
+- IT Developper, AI and privacy enthusiast.<br>
 
 
 
