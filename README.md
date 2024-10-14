@@ -1,7 +1,7 @@
 # 💫 About Me:
 - IT Developper, AI and privacy enthusiast.<br>
 
-
+![Weblate profile](https://hosted.weblate.org/user/Ery4z/#contributed)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thomas-bolteau) 
