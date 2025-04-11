@@ -1,5 +1,5 @@
 # 💫 About Me:
-- IT Developper, AI and privacy enthusiast.<br>
+- Embedded System Engineer, privacy enthusiast.<br>
 
 French translator for [Invoke AI](https://github.com/invoke-ai/InvokeAI): [Weblate profile](https://hosted.weblate.org/user/Ery4z/#contributed)
 
